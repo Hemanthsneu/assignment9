@@ -9,12 +9,12 @@ function Contact(){
         {
             id: 1,
             name: "Hemanth ",
-            contact: 11111111111
+            contact: 1111111111
         },
         {
             id: 2,
             name: "biden",
-            contact:0000000000 
+            contact:7777777777
         },
         {
             id: 3,
